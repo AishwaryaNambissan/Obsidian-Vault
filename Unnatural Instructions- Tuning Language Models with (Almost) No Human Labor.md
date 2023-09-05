@@ -1,3 +1,4 @@
+https://arxiv.org/abs/2212.09689
 
 The Unnatural Instructions dataset is created by using a pretrained language model to generate instructions based on three examples from the Super-Natural Instructions dataset. By repeating this process with different seeds, the dataset contains 64,000 diverse sets of instructions, inputs, and outputs. Additionally, the dataset is further expanded by generating natural language paraphrases of each instruction. Despite containing some incorrect examples, analysis shows that over 50% of the generated examples are correct and even the incorrect ones provide valuable information. The Unnatural Instructions dataset includes creative tasks and a wider range of instructions compared to the Super-Natural Instructions dataset.
 

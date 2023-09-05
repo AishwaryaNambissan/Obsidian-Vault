@@ -84,6 +84,30 @@
             }
           },
           {
+            "id": "a9df4e6430866f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unnatural Instructions- Tuning Language Models with (Almost) No Human Labor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fbd190f5280a03c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stanza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f38f1369f99bb014",
             "type": "leaf",
             "state": {
@@ -168,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -234,6 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stanza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,6 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stanza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +297,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stanza.md"
+              }
             }
           },
           {
@@ -299,12 +327,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebea5ab1c6635813",
+  "active": "1fbd190f5280a03c",
   "lastOpenFiles": [
-    "K-means clustering.md",
-    "Llama.md",
     "Unnatural Instructions- Tuning Language Models with (Almost) No Human Labor.md",
     "Stanza.md",
+    "Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles- An Application in Ophthalmology.md",
+    "MyRepository",
+    "Test",
+    "New folder",
+    "K-means clustering.md",
+    "Llama.md",
     "Topic Modelling.md",
     "Week 5.md",
     "10 Clustering Algorithms.md",
