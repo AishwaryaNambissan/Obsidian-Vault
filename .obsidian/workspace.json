@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel.md",
+                "file": "Articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel.md",
+                "file": "Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +393,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel.md",
+                "file": "Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -416,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel.md"
+                "file": "Articles.md"
               }
             }
           },
@@ -445,8 +445,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a7facb3a44ace74",
+  "active": "816455692371c8aa",
   "lastOpenFiles": [
+    "Excel.md",
     "Articles.md",
     "Artificial Intelligence.md",
     "A very gentle introduction to large language models without the hype.md",
@@ -458,7 +459,6 @@
     "Text Classification.md",
     "A heuristic approach to determine an appropriate number of topics in topic modeling.md",
     "Stemming and Lemmatization.md",
-    "Excel.md",
     "Machine learning and deep learning.md",
     "A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
     "Stanza.md",
