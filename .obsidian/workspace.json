@@ -149,6 +149,76 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Stemming and Lemmatization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cbfc42f0dab3e58",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230907212004.png"
+              }
+            }
+          },
+          {
+            "id": "ce3c4573991e6c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Impact of Preprocessing on Text Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26e9be015c0ab6fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Text Summarization Techniques - A Brief Survey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7550704b14ccbc16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb85001b76777507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A very gentle introduction to large language models without the hype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "816455692371c8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Excel.md",
                 "mode": "source",
                 "source": false
@@ -240,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -375,8 +445,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23617d6e7a677390",
+  "active": "7a7facb3a44ace74",
   "lastOpenFiles": [
+    "Articles.md",
+    "Artificial Intelligence.md",
+    "A very gentle introduction to large language models without the hype.md",
+    "Impact of Preprocessing on Text Classification.md",
+    "Text Summarization Techniques - A Brief Survey.md",
+    "Pasted image 20230907212004.png",
+    "Pasted image 20230907212014.png",
+    "Clustering.md",
+    "Text Classification.md",
+    "A heuristic approach to determine an appropriate number of topics in topic modeling.md",
     "Stemming and Lemmatization.md",
     "Excel.md",
     "Machine learning and deep learning.md",
@@ -392,13 +472,10 @@
     "Topic Modelling.md",
     "Week 5.md",
     "10 Clustering Algorithms.md",
-    "Clustering.md",
     "Twitter Discussions and Emotions About the COVID-19 Pandemic- Machine Learning Approach.md",
     "Supervised versus unsupervised learning.md",
-    "Text Classification.md",
     "Week 1 - Classification.md",
     "Natural Language Processing.md",
-    "Google Bard versus ChatGPT.md",
-    "Artificial Intelligence.md"
+    "Google Bard versus ChatGPT.md"
   ]
 }

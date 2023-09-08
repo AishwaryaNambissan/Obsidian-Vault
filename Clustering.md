@@ -2,6 +2,8 @@ https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78
 
 https://sodalab.monday.com/boards/5034134212/pulses/5068749604
 
+https://oneai.com/learn/text-clustering
+
 - Clustering is more difficult than supervised classification because there are no labels attached to patterns in clustering.
 - Clustering relies on numeric data to represent features of patterns, and information about relationships among patterns can only be extracted through numeric arithmetic.
 - Different clustering approaches exist because there is no precise definition of a "cluster".
@@ -76,3 +78,35 @@ There are a number of problems with clustering. Among them:
 - Time complexity when dealing with large datasets
 -  If an _obvious_ distance measure doesn’t exist it has to be defined which is not easy in multidimensional spaces
 - The result of the clustering algorithm can be interpreted in different ways, so it is not always consistent.
+
+
+### Text Clustering
+Groups similar documents or sentences based on their content and meaning facilitating efficient categorization and analysis of large volumes of information
+
+##### Flat or Hierarchical
+Flat - Data categorized into separate fixed sections 
+Hierarchical - Captures more nuanced relationships between words and sentences. Modelled like a tree where larger branches have smaller branches to finally end in leaves.
+		- Agglomerative -  Starts with individual text documents as leaves and then merges them into larger branches
+		- Divisive -  Starts with all the text documents grouped together and then splits them into smaller branches
+
+##### Based on overlaps
+
+Soft clustering - Data instances can belong to multiple categories based on the relevance
+Hard clustering  - Each data instance can only belong to one cluster each
+
+##### Based on Goals
+Monothetic Clustering - Only one feature is used for clustering
+Polythetic Clustering - Multiple features are used for clustering
+##### Commonly used Text Clustering methodologies
+- Distance measures: Cosine Similarity and Euclidean Distance.
+- Criterion functions: Calinski-Harabasz and Davies-Bouldin
+- Algorithms: K-Means and Hierarchical Clustering
+- Feature extraction techniques: Term Frequency-Inverse Document Frequency (TF-IDF) and Latent Dirichlet Allocation (LDA).
+
+##### Working
+
+Involves data preprocessing, feature extraction, and similarity measurement. The goal of these stages is to transform raw text data into numerical representations that can be processed and analyzed by machine learning algorithms.
+
+![[Pasted image 20230907212014.png]]
+##### Applications
+Sentiment Analysis, Topic Modelling, Fake news identification

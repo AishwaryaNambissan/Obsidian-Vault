@@ -109,4 +109,4 @@ Deep learning approaches
 
 The breakthrough strategy for sub-word tokenization is known as Byte Pair Encoding (BPE). Originally developed as a compression algorithm, it was later adapted for segmenting words into sub-word units (e.g., dividing "snowboarding" into "snow", "board", and "ing"). During the tokenization process, the BPE algorithm calculates the frequency of consecutive pairs of vocabulary terms and merges the most frequent pair into a new vocabulary word. When encountering new text for tokenization, the same merging process is applied by executing all recorded merges in the order they were performed during training. BPE's vocabulary initially consists of the characters present in the training data.
 
-##### WordPiece
+
