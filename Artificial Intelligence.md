@@ -24,4 +24,3 @@ Examples of Artificial Intelligence:
 - Security and surveillance
 - Smart home - Thermostat devices, Alexa
 - Internet of Things
-- 

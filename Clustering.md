@@ -33,7 +33,7 @@ iii.Points: Euclidean Distance
 
 Clustering Algorithms are classified into :
 - Exclusive overlapping - Each datapoint belongs strictly to only one cluster
-Example - K - means
+Example - [[K-means clustering]]
 - Overlapping cluster - Each datapoint belongs to 2 or more clusters with different degrees of membership
 Example : Fuzzy k-means
 - Hierarchical clustering - Union between 2 nearest clusters

@@ -1,7 +1,8 @@
 
 https://www.sciencedirect.com/science/article/pii/S0306457313000964?via%3Dihub
 
-Aim : To analyze the effect on text classification when 4 common preprocessing steps of tokenization, stop-word removal, lowercase conversion, and stemming are applied.
+
+Aim : To analyze the effect on text classification when 4 common preprocessing steps of tokenization, stop-word removal, lowercase conversion, and [[Stemming and Lemmatization| stemming]] are applied.
 
 Datasets : E-mail and news, and in two different languages, namely Turkish and English.
 

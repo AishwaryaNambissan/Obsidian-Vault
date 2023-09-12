@@ -2,7 +2,7 @@
 https://www.oreilly.com/library/view/practical-natural-language/9781492054047/ch04.html
 https://www.exxactcorp.com/blog/Deep-Learning/What-is-Text-Classification
 
-Text classification is the task of assigning one or more categories to a given piece of text from a larger set of possible categories. This task of categorizing texts based on some properties has a wide range of applications across diverse domains, such as social media, e-commerce, healthcare, law, and marketing, to name a few.
+Text [[Classification]] is the task of assigning one or more categories to a given piece of text from a larger set of possible categories. This task of categorizing texts based on some properties has a wide range of applications across diverse domains, such as social media, e-commerce, healthcare, law, and marketing, to name a few.
 The “text” can be of arbitrary length: a character, a word, a sentence, a paragraph, or a full document.
 
 Text classification is sometimes also referred to as _topic classification_, _text categorization_, or _document categorization_

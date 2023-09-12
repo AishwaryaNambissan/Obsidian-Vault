@@ -44,7 +44,7 @@ Applications : Fraud detection, outlier detection
 Popular classification Algorithms:
 
 #### Logistic regression
-The [logistic function](https://en.wikipedia.org/wiki/Logistic_function), also called the sigmoid function is an S-shaped curve that can take any real-valued number and map it into a value between 0 and 1, but never exactly at those limits.
+The logistic function, also called the sigmoid function is an S-shaped curve that can take any real-valued number and map it into a value between 0 and 1, but never exactly at those limits.
 - Logistic regression is used for binary classification where the dependent variable can take only two values, as either one or yes, representing success, or as 0 or no, representing failure.
 Applications: Identifying the risk factor for diseases, weather predictions
 ### Naive Byes

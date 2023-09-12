@@ -1,6 +1,5 @@
 [https://doi.org/10.1007/s12525-021-00475-2](https://doi.org/10.1007/s12525-021-00475-2)
 
-
 Machine learning refers to the capability of systems to acquire knowledge from training data that is specific to a problem. This knowledge is then used to automatically construct analytical models and tackle related tasks. Deep learning, on the other hand, is a machine learning approach that relies on artificial neural networks.
 
 Machine Learning

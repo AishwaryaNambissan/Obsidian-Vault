@@ -1,5 +1,6 @@
 
 [https://doi.org/10.48550/arXiv.2308.16688](https://doi.org/10.48550/arXiv.2308.16688)
+
 Conventionally, it is assumed that for text classification, there is a fixed set of predefined labels. But, in real life scenarios, the label space for describing a text is unlimited. To address this issue, _Zero shot learning_ is used which involves classifying instances into categories without any labelled training data. Semantic embeddings and textual descriptors are used to bridge the gap between known and unknown categories.
 
 #### BART - Bidirectional and Auto-Regressive Transformers 

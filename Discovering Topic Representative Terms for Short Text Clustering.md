@@ -4,7 +4,7 @@
 
 - Topic representative terms discovery(TRTD) method  focuses on their closeness and significance. Closeness is measured by how often the terms co-occur, while significance is measured by their global occurrences in the entire text corpus. 
 
-- Short text clustering is challenging due to features like abbreviations and informal expressions, which result in sparse, noisy, and high-dimensional data.
+- Short text [[Clustering]] is challenging due to features like abbreviations and informal expressions, which result in sparse, noisy, and high-dimensional data.
 - Existing short text clustering methods can be categorized as representation-based or model-based. Representation-based methods use enriched or compact features to overcome sparsity issues, followed by applying conventional clustering techniques like  K-Means.
 - The topic representative terms discovery (TRTD) method involves
 	1. constructing a node/edge-weighted word graph

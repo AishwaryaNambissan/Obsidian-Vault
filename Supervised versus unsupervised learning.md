@@ -8,7 +8,7 @@ Applications: Spam detection, Processing sentiment analysis
 
 Categorized into:
 
-- Classification - Assigns test data into specific categories
+- [[Classification]] - Assigns test data into specific categories
 Eg : Support vector machines, linear classifiers, decision trees
 - Regression - Understands the relationship between dependent and independent variables
 Eg: Linear regression, logistic regression and polynomial regression
@@ -19,7 +19,7 @@ Uses unlabelled datasets to discover hidden patterns in data without human inter
 Goal : Getting new insights from massive amounts of new data
 Applications: Anomaly detection, recommendation engines
 
-- Clustering - Data mining technique to group unlabelled data based on similarities or differences
+- [[Clustering]] - Data mining technique to group unlabelled data based on similarities or differences
 - Association - Uses different rules to find the relationship between variables in a given dataset.
 - Dimensionality reduction - Used when the number of features is too high. Reduces the number of inputs to a manageable size while preserving data integrity.
 
@@ -42,4 +42,4 @@ Example: Gaussian Mixture Model
 - Non-parametric unsupervised learning
 
 The data is grouped into clusters, where each cluster says something about categories and classes present in the data.
-Example :  K-means
+Example :  [[K-means clustering]]

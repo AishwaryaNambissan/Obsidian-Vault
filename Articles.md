@@ -1,4 +1,4 @@
-[[Week 1 - Classification]]
+[[Classification]]
 [[Artificial Intelligence]]
 [[Natural Language Processing]]
 [[Machine learning and deep learning]]
@@ -10,6 +10,9 @@
 [[Stemming and Lemmatization]]
 [[Impact of Preprocessing on Text Classification]]
 [[Topic Modelling]]
+[[A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts]]
+[[Latent Dirichlet Allocation]]
+[[Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA)]]
 [[Text Summarization Techniques - A Brief Survey]]
 [[Llama]]
 [[Stanza]]
@@ -20,4 +23,7 @@
 [[A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification]]
 [[A heuristic approach to determine an appropriate number of topics in topic modeling]]
 [[A very gentle introduction to large language models without the hype]]
+[[Discovering Topic Representative Terms for Short Text Clustering]]
+[[Bag of Tricks for Efficient Text Classification]]
+
 

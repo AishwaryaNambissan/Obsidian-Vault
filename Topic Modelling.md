@@ -15,14 +15,14 @@ Similar word patterns are grouped into topics to create topic clusters. It can b
 ##### Dimensionality reduction : 
 Text is represented in topic space instead of feature space by taking the weight of the words in the text instead of their count.
 
-##### Unsupervised clustering
+##### [[Supervised versus unsupervised learning#Unsupervised learning | Unsupervised]] [[Clustering]]
 A cluster of words is built instead of a cluster of texts. A text thus becomes a mixture of all the topics, each with their own weights
 
 ##### Tagging
 Getting the abstract topics that occur in a collection of documents that best represents the information contained within them.
 
 
-LDA
+[[Latent Dirichlet Allocation]]
 
 - Each topic is a mixture over an underlying set of words, and each document is a mixture of over a set of topic probabilities.
 
@@ -48,7 +48,7 @@ LSA
 ●LSA assumes all similar documents to share the same patterns when their word frequency and order are consistent, which helps analyze not just one but a collection   of documents.
 
 
-#### Topic Modelling versus Clustering
+#### [[Topic Modelling]] versus [[Clustering]]
 
 _Topic Modelling_
 ●A statistical technique that discovers latent topics in a collection of documents. 
@@ -77,7 +77,7 @@ _Topic Classification_
 
 ●Assigns a label to a document     according to its topic
 
-#### Topic Modelling versus Text Classification
+#### Topic Modelling versus [[Text Classification]]
 
 _Topic Modelling_
 

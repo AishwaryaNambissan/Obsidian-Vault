@@ -1,6 +1,6 @@
-[https://doi.org/10.1007/s11042-018-6894-4](https://doi.org/10.1007/s11042-018-6894-4)
+[https://doi.org/10.1007/s11042-018-6894-4]
 
-Topic models are prominent for demonstrating discrete data and give a productive approach to find hidden structures in gigantic information. 
+[[Topic Modelling | Topic models ]]are prominent for demonstrating discrete data and give a productive approach to find hidden structures in gigantic information. 
 
 LDA is used as an intuitive approach for calculation of similarity between the source files and obtain the respective distributions of each document over other topics.
 

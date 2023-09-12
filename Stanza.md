@@ -1,7 +1,7 @@
 [https://doi.org/10.48550/arXiv.2003.07082]
 
 Stanza is an open-source Python natural language processing toolkit. 
-Stanza features a language-agnostic fully neural pipeline for text analysis, including tokenization, multiword token expansion, lemmatization, part-of speech 
+Stanza features a language-agnostic fully neural pipeline for text analysis, including tokenization, multiword token expansion, [[Stemming and Lemmatization]], part-of speech 
 and morphological feature tagging, dependency parsing, and named entity recognition.
 
 ### Problems with existing toolkits:

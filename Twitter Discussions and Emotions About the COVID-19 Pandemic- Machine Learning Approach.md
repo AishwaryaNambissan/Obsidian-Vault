@@ -16,7 +16,7 @@ Removing non-English characters
 
 Removing special characters, punctuations and stop words.
 
-Topic Modelling : LDA
+[[Topic Modelling]] : [[Latent Dirichlet Allocation]]
 
 Qualitative Analysis
 

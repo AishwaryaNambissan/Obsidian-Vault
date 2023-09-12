@@ -6,7 +6,7 @@ Gaining insight by extracting information from large unstructured text datasets.
 Text mining tools are needed to perform indexing and retrieval of  rapidly growing text data.
 
 #### TF-IDF
-The weight of each word is counted with respect to the number of times it is repeated in the text and the number of files in which it exists. Too much repetition means that the word is unimportant.
+The weight of each word is counted with respect to the number of times it is repeated in the text and the number of files in which it exists. Too much repetition means that the word is unimportant. It is used for extracting core words (i.e., keywords) from documents, calculating similar degrees among documents, deciding search ranking, and so on.
 
 #### Bayesian algorithm
 A simple method used in text classification. However, it is not highly efficient because it does not model texts well, nor does it provide a good feature selection.
