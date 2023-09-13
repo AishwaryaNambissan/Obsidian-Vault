@@ -326,6 +326,18 @@
             }
           },
           {
+            "id": "ffe3c5b7e44486a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Large Language Models Enable Few-Shot Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f38f1369f99bb014",
             "type": "leaf",
             "state": {
@@ -410,7 +422,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -476,7 +488,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Clustering Algorithms.md",
+                "file": "Large Language Models Enable Few-Shot Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -493,7 +505,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Clustering Algorithms.md",
+                "file": "Large Language Models Enable Few-Shot Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -516,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Clustering Algorithms.md"
+                "file": "Large Language Models Enable Few-Shot Clustering.md"
               }
             }
           },
@@ -545,8 +557,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "206e42050ce258ef",
+  "active": "ffe3c5b7e44486a4",
   "lastOpenFiles": [
+    "Supervised versus unsupervised learning.md",
+    "Large Language Models Enable Few-Shot Clustering.md",
+    "10 Clustering Algorithms.md",
     "A heuristic approach to determine an appropriate number of topics in topic modeling.md",
     "A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
     "A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
@@ -570,9 +585,6 @@
     "Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
     "Research paper classification systems based on TF‑IDF and LDA schemes.md",
     "Stanza.md",
-    "Stemming and Lemmatization.md",
-    "Supervised versus unsupervised learning.md",
-    "Text Classification.md",
     "Pasted image 20230907212004.png",
     "Pasted image 20230912174355.png",
     "Pasted image 20230907212014.png",

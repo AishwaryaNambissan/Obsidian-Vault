@@ -43,3 +43,6 @@ Example: [[Clustering#Gaussian Mixture Model|Gaussian Mixture Model]]
 
 The data is grouped into clusters, where each cluster says something about categories and classes present in the data.
 Example :  [[K-means clustering]]
+
+#### Semi supervised learning
+A training dataset with both labeled and unlabeled data is used. It’s particularly useful when it’s difficult to extract relevant features from data and when there is a high volume of data.
