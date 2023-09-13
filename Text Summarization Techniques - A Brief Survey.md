@@ -3,8 +3,7 @@
 
 Automatic text summarization is the task of producing a concise and fluent summary while preserving key information content and overall meaning. It is challenging since computers lack human knowledge and language capability, it doesn't understand an entire piece of text like humans do.
 
-Earlier automatic summarization techniques used _word
-and phrase frequency_ which proposed to weight the sentences of a document as a function of high frequency words, ignoring very high frequency common words.
+Earlier automatic summarization techniques used _word and phrase frequency_ which proposed to weight the sentences of a document as a function of high frequency words, ignoring very high frequency common words.
 
 To calculate sentence weights:
 1. Cue Method - Relevance is calculated based on the presence or absence of certain cue words in the cue dictionary
@@ -41,7 +40,7 @@ Common techniques : Word probability, TF-IDF
 
 Word probability : Number of occurrences of the word divided by the number of all the words in the input.
 
-TF-IDF - Assesses the importance of words and identifies very common words that should be omitted from consideration in the document by giving low weights to words appearing in  most documents.
+[[A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification#TF-IDF|TF-IDF]] - Assesses the importance of words and identifies very common words that should be omitted from consideration in the document by giving low weights to words appearing in  most documents.
 
 Latent Semantic Analysis : Unsupervised method for extracting a representation of text semantics based on observed words.
 
@@ -68,7 +67,7 @@ Graph Method
 Graph methods are influenced by PageRank algorithm and represent the documents as a connected graph. Sentences form the vertices of the graph and edges between the sentences indicate how similar the two sentences are.
 
 Machine Learning for Summarization
-Models the summarization as a classification problem
+Models the summarization as a [[Classification|classification]] problem
 
 
 #### Evaluation

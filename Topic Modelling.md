@@ -2,9 +2,8 @@
 https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
 https://link.springer.com/article/10.1007/s11042-018-6894-4
 
-It is an unsupervised machine learning statistical modelling technique used to identify clusters or groups within a body of text. Themes are identified within text to form the clusters. Great for representing discrete data.
-
-●Used for document classification, tagging customer support tickets and analyzing customer feedback
+It is an [[Supervised versus unsupervised learning#Unsupervised learning|unsupervised machine learning]] statistical modelling technique used to identify clusters or groups within a body of text. Themes are identified within text to form the clusters. Great for representing discrete data.
+Used for document classification, tagging customer support tickets and analyzing customer feedback
 
 
 Topic models in text document analysis do not understand the meanings of words. Instead, they assume that words in a document are selected from predefined topic baskets. The topic modeling process repeats to determine the most likely distribution of words into topics. This approach provides a helpful perspective on large collections, considering the collection as a whole, individual documents, and the relationships between them.
@@ -15,7 +14,7 @@ Similar word patterns are grouped into topics to create topic clusters. It can b
 ##### Dimensionality reduction : 
 Text is represented in topic space instead of feature space by taking the weight of the words in the text instead of their count.
 
-##### [[Supervised versus unsupervised learning#Unsupervised learning | Unsupervised]] [[Clustering]]
+##### Unsupervised Clustering
 A cluster of words is built instead of a cluster of texts. A text thus becomes a mixture of all the topics, each with their own weights
 
 ##### Tagging

@@ -37,7 +37,7 @@ Unsupervised learning can be divided into:
 - Parametric unsupervised learning
 
 Assumes that sample data comes from a population that follows a probability distribution based on a fixed set of parameters
-Example: Gaussian Mixture Model
+Example: [[Clustering#Gaussian Mixture Model|Gaussian Mixture Model]]
 
 - Non-parametric unsupervised learning
 

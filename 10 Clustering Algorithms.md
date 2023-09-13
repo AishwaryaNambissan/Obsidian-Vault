@@ -1,7 +1,6 @@
 
 https://machinelearningmastery.com/clustering-algorithms-with-python/
 
-
 1. Affinity Propagation - finds a set of examples to summarize the data in the best way
 2.  BIRCH - Balanced Iterative Reducing and Clustering using  Hierarchies involves constructing a tree structure from which cluster centroids are extracted
 3. DBSCAN - Density-Based Spatial Clustering of Applications with Noise refers to the process of identifying regions with a high concentration of data points within a given domain. These regions are then expanded to include nearby points, resulting in the formation of clusters in the feature space.

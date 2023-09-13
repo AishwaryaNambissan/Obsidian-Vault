@@ -4,7 +4,7 @@
 
 Feature extraction is one of the challenging works in the Machine Learning (ML) arena. The more features one able to extract correctly, the more accurate knowledge one can exploit from data. 
 
-[[Latent Dirichlet Allocation]] is a form of topic modeling used to extract features from text data. But finding the optimal number of topics (on which success of LDA depends on) is tremendous challenging, especially if there is no prior knowledge about the data.
+[[Latent Dirichlet Allocation]] is a form of [[Topic Modelling|topic modeling]] used to extract features from text data. But finding the optimal number of topics (on which success of LDA depends on) is tremendous challenging, especially if there is no prior knowledge about the data.
 
 #### Normalized Absolute Perplexity (NAP) and Normalized Absolute Coherence (NAC) 
 

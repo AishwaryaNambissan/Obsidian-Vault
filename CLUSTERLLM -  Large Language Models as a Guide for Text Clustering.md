@@ -2,7 +2,7 @@
 [https://doi.org/10.48550/arXiv.2305.14871](https://doi.org/10.48550/arXiv.2305.14871)
 
 
-CLUSTERLLM is a novel [[Clustering#Text Clustering | text clustering]] framework that takes feedback from an instruction-tuned large language model, such as ChatGPT to guide a small embedder for finding text clusters with low cost.
+CLUSTERLLM is a novel [[Clustering#Text Clustering |text clustering]] framework that takes feedback from an instruction-tuned large language model, such as ChatGPT to guide a small embedder for finding text clusters with low cost.
 
 #### Advantages:
 (1) It enjoys the emergent capability of LLM
@@ -25,7 +25,7 @@ CLUSTERLLM is a novel [[Clustering#Text Clustering | text clustering]] framework
 **Embedders used** : Instructor and E5
 CLUSTERLLM-E and CLUSTERLLM- I adopt E5 and Instructor as their embedders respectively. CLUSTERLLM-I-iter applies the entire framework in iterative manner for twice. All of these variants use GPT-3.5 for prediction.
 
-Results
+#### Results
 
 (1) Both E5 and Instructor significantly outperform GCD methods with few-shot annotations. This implies pretraining quality is especially important to discovering new categories. 
 (2) Both CLUSTERLLM-E and CLUSTERLLM-I improves upon or perform similar with their original embedders consistently.

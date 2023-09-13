@@ -7,7 +7,6 @@ model describes a dataset, with lower perplexity denoting a better probabilistic
 
 So a new approach in which the rate of perplexity change (RPC) is calculated, and the change point of RPC is determined to be the most appropriate number of topic was proposed. 
 
-
 Datasets used : 
 - Whole genome sequences of 119 Salmonella enterica strains
 - The dataset which includes 996 drugs with 4500 side effects filtered by MedDRA from SIDER2 database

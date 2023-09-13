@@ -39,7 +39,7 @@ Example : Fuzzy k-means
 - Hierarchical clustering - Union between 2 nearest clusters
 Example : Hierarchical Agglomerative Clustering
 - Probabilistic Clustering - Uses probabilities for clustering
-Example : Gaussian Mixture model
+Example :  Gaussian Mixture model
 
 #### Fuzzy K- means
 - Fuzzy k-means is a variation of the k-means algorithm that uses weighted centroids based on probabilities.

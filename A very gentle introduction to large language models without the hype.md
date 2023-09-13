@@ -37,7 +37,7 @@ For each word position in the input,  the _q_ encoding and the _k_ encoding 
 
 ##### Concerns around Large Language models
 
-1. Large Language models are trained on the internet, meaning they are privy to all the dark parts of humanity including racism, insults of every kind against every type of person, political misinformation etc
+1. [[Large Language Models]] are trained on the internet, meaning they are privy to all the dark parts of humanity including racism, insults of every kind against every type of person, political misinformation etc
 2. LLMs don't have a fixed stance on things. One can ask a large language model to write a sentence in favor of something, or against that same thing, and the language model will comply both ways.
 3. They do not have a sense of truth or right or wrong. It could give responses like the Earth is flat, although it is false simply because enough people on the internet would have been flat earthers and their opinions were also learnt by the LLM.
 4. LLMs can make mistakes. The training data might have a lot of inconsistent material or has seen a word more times that it prefers that word even when it doesn't make sense for the input, leading to a phenomenon called “**hallucination**” .

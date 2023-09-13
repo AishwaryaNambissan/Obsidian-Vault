@@ -1,14 +1,14 @@
 
 https://www.jmir.org/2020/11/e20550/
 
-Background: COVID-19–related tweets published between March 7 and April 21, 2020 were collected.
+**Background**: COVID-19–related tweets published between March 7 and April 21, 2020 were collected.
 A list of COVID-19–related hashtags were used as search terms to fetch tweets (eg, #coronavirus, #2019nCoV, #COVID19, #coronaoutbreak, and #quarantine)
 
 From March 7 to April 21, 2020, 35,204,604 tweets were collected. After removing non-English tweets, 23,817,948 tweets remained. After removing duplicates and retweets 4,196,020 tweets remained in the final data set.
 
-Features for each tweet: (1) the full text, (2) the numbers of favorites, followers, and followings, (3) users’ geolocation, and (4) users' description/self-created profile.
+**Features for each tweet**: (1) the full text, (2) the numbers of favorites, followers, and followings, (3) users’ geolocation, and (4) users' description/self-created profile.
 
-Preprocessing:
+**Preprocessing**:
 
 Removing hash tag symbol and urls from each tweet
 
@@ -45,7 +45,7 @@ Top 3 bigrams identified included the following: “covid 19”, “stay home”
 
 Top 3 unigrams included “virus”,  “lockdown” and “quarantine”
 
-Themes
+**Themes**
 
 Organized 13 topics into 5 themes:
 
@@ -59,7 +59,7 @@ Organized 13 topics into 5 themes:
 
  “Coronavirus cases in the rest of the world” (eg, UK, global issue)
 
-Sentiment Analysis
+**Sentiment Analysis**
 
 Across all 13 topics, anticipation dominated 12 topics, followed by fear, trust and anger.
 

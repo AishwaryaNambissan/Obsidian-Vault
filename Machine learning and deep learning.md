@@ -2,14 +2,16 @@
 
 Machine learning refers to the capability of systems to acquire knowledge from training data that is specific to a problem. This knowledge is then used to automatically construct analytical models and tackle related tasks. Deep learning, on the other hand, is a machine learning approach that relies on artificial neural networks.
 
-Machine Learning
+#### Machine Learning
 
 -  Learns from examples and observations
 - Challenges : The suitable choice from many implementation options, bias and drift in data, the mitigation of black-box properties, and the reuse of preconfigured models (as a service).
 - ML means that a computer program’s performance improves with experience with respect to some class of tasks and performance measures
 
-Knowledge base approach : An early AI approach in which a computer automatically reasons based on logical inference rules from hard coded statements in formal languages. Couldn't handle complex tasks.
+**Knowledge base approach** : An early AI approach in which a computer automatically reasons based on logical inference rules from hard coded statements in formal languages. Couldn't handle complex tasks.
 
+#### Deep Learning
+Deep Learning is useful in domains with large and high dimensional data and outperforms shallow algorithms for applications where text, image, audio, video and speech data need to be processed. But in cases of limited training data availability, shallow ML can still produce superior results.
 ### Artificial Neural Networks
 Artificial neural networks have a flexible structure which allows them to be modified for a wide variety of contexts across all types of ML.
 - ANNs consist of mathematical representations of connected processing units called artificial neurons.
@@ -25,8 +27,6 @@ Artificial neural networks have a flexible structure which allows them to be mod
 - Usually contain advanced neurons in contrast to simple ANNs. That is, they may use advanced operations like convolutions or multiple activations in one neuron rather than using a simple activation function. 
 
 ANNs are considered to be a part of shallow machine learning and DNNs are a part of deep machine learning.
-
-Deep Learning is useful in domains with large and high dimensional data and outperforms shallow algorithms for applications where text, image, audio, video and speech data need to be processed. But in cases of limited training data availability, shallow ML can still produce superior results.
 
 ### Drift
 ML models for intelligent systems may not produce satisfactory results when historical
