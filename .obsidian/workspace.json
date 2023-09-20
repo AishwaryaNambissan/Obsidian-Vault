@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification.md",
+                "file": "MyRepository/Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised versus unsupervised learning.md",
+                "file": "MyRepository/Supervised versus unsupervised learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Llama.md",
+                "file": "MyRepository/Llama.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clustering.md",
+                "file": "MyRepository/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-means clustering.md",
+                "file": "MyRepository/K-means clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnatural Instructions- Tuning Language Models with (Almost) No Human Labor.md",
+                "file": "MyRepository/Unnatural Instructions- Tuning Language Models with (Almost) No Human Labor.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stanza.md",
+                "file": "MyRepository/Stanza.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
+                "file": "MyRepository/A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stemming and Lemmatization.md",
+                "file": "MyRepository/Stemming and Lemmatization.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stemming and Lemmatization.md",
+                "file": "MyRepository/Stemming and Lemmatization.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stemming and Lemmatization.md",
+                "file": "MyRepository/Stemming and Lemmatization.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230907212004.png"
+                "file": "MyRepository/Pasted image 20230907212004.png"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impact of Preprocessing on Text Classification.md",
+                "file": "MyRepository/Impact of Preprocessing on Text Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text Summarization Techniques - A Brief Survey.md",
+                "file": "MyRepository/Text Summarization Techniques - A Brief Survey.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence.md",
+                "file": "MyRepository/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A very gentle introduction to large language models without the hype.md",
+                "file": "MyRepository/A very gentle introduction to large language models without the hype.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A very gentle introduction to large language models without the hype.md",
+                "file": "MyRepository/A very gentle introduction to large language models without the hype.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impact of Preprocessing on Text Classification.md",
+                "file": "MyRepository/Impact of Preprocessing on Text Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discovering Topic Representative Terms for Short Text Clustering.md",
+                "file": "MyRepository/Discovering Topic Representative Terms for Short Text Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latent Dirichlet Allocation.md",
+                "file": "MyRepository/Latent Dirichlet Allocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -275,7 +275,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
+                "file": "MyRepository/A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
                 "mode": "source",
                 "source": false
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles.md",
+                "file": "MyRepository/Articles.md",
                 "mode": "source",
                 "source": false
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research paper classification systems based on TF‑IDF and LDA schemes.md",
+                "file": "MyRepository/Research paper classification systems based on TF‑IDF and LDA schemes.md",
                 "mode": "source",
                 "source": false
               }
@@ -319,7 +319,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Clustering Algorithms.md",
+                "file": "MyRepository/10 Clustering Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -339,10 +339,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clustering Algorithms.md",
+                "file": "Extras/Clustering Algorithms.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "59db9d2f698a244e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -351,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification.md",
+                "file": "MyRepository/Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +371,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Bard versus ChatGPT.md",
+                "file": "MyRepository/Google Bard versus ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -375,7 +383,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence.md",
+                "file": "MyRepository/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -387,7 +395,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification.md",
+                "file": "MyRepository/Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -399,7 +407,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification.md",
+                "file": "MyRepository/Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -411,7 +419,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text Classification.md",
+                "file": "MyRepository/Text Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -423,14 +431,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification.md",
+                "file": "MyRepository/Classification.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -496,7 +504,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clustering Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -513,7 +520,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clustering Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -535,9 +541,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Clustering Algorithms.md"
-              }
+              "state": {}
             }
           },
           {
@@ -546,6 +550,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "837b7c1aea48a239",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -565,37 +579,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d257c1e809ca90b8",
+  "active": "59db9d2f698a244e",
   "lastOpenFiles": [
-    "Clustering Algorithms.md",
-    "Articles.md",
-    "Large Language Models Enable Few-Shot Clustering.md",
-    "Supervised versus unsupervised learning.md",
-    "10 Clustering Algorithms.md",
-    "A heuristic approach to determine an appropriate number of topics in topic modeling.md",
-    "A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
-    "A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
-    "A very gentle introduction to large language models without the hype.md",
-    "Artificial Intelligence.md",
-    "Bag of Tricks for Efficient Text Classification.md",
-    "Classification.md",
-    "Clustering.md",
-    "CLUSTERLLM -  Large Language Models as a Guide for Text Clustering.md",
-    "Discovering Topic Representative Terms for Short Text Clustering.md",
-    "Excel.md",
-    "Google Bard versus ChatGPT.md",
-    "How to Use LLMs to Build Better Clustering Models.md",
-    "Impact of Preprocessing on Text Classification.md",
-    "Large Language Models.md",
-    "Latent Dirichlet Allocation.md",
-    "Topic Modelling.md",
-    "Llama.md",
-    "Machine learning and deep learning.md",
-    "Natural Language Processing.md",
-    "Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
-    "Pasted image 20230907212004.png",
-    "Pasted image 20230912174355.png",
-    "Pasted image 20230907212014.png",
+    "MyRepository/Articles.md",
+    "MyRepository/Attempts at automating journal subject classification.md",
+    "MyRepository/Advanced Techniques for Research with ChatGPT.md",
+    "MyRepository/10 Clustering Algorithms.md",
+    "Extras/Clustering Algorithms.md",
+    "MyRepository/CLUSTERLLM -  Large Language Models as a Guide for Text Clustering.md",
+    "MyRepository/Clustering.md",
+    "MyRepository/Classification.md",
+    "MyRepository/Bag of Tricks for Efficient Text Classification.md",
+    "MyRepository/Artificial Intelligence.md",
+    "MyRepository/A very gentle introduction to large language models without the hype.md",
+    "MyRepository/A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
+    "MyRepository/A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
+    "MyRepository/A heuristic approach to determine an appropriate number of topics in topic modeling.md",
+    "Extras",
+    "MyRepository/Large Language Models Enable Few-Shot Clustering.md",
+    "MyRepository/Supervised versus unsupervised learning.md",
+    "MyRepository/Discovering Topic Representative Terms for Short Text Clustering.md",
+    "Extras/Excel.md",
+    "MyRepository/Google Bard versus ChatGPT.md",
+    "MyRepository/How to Use LLMs to Build Better Clustering Models.md",
+    "MyRepository/Impact of Preprocessing on Text Classification.md",
+    "MyRepository/Large Language Models.md",
+    "MyRepository/Latent Dirichlet Allocation.md",
+    "MyRepository/Topic Modelling.md",
+    "MyRepository/Llama.md",
+    "MyRepository/Machine learning and deep learning.md",
+    "MyRepository/Pasted image 20230907212004.png",
+    "MyRepository/Pasted image 20230912174355.png",
+    "MyRepository/Pasted image 20230907212014.png",
     "MyRepository",
     "Test",
     "New folder"

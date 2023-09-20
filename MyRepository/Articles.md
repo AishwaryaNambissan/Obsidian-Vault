@@ -27,5 +27,7 @@
 [[Discovering Topic Representative Terms for Short Text Clustering]]
 [[Bag of Tricks for Efficient Text Classification]]
 [[Large Language Models Enable Few-Shot Clustering]]
+[[Advanced Techniques for Research with ChatGPT]]
+[[Attempts at automating journal subject classification]]
 
 
