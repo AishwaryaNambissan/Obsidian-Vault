@@ -349,8 +349,12 @@
             "id": "59db9d2f698a244e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MyRepository/Articles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -504,6 +508,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MyRepository/Articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -520,6 +525,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MyRepository/Articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -541,7 +547,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MyRepository/Articles.md"
+              }
             }
           },
           {
@@ -581,33 +589,33 @@
   },
   "active": "59db9d2f698a244e",
   "lastOpenFiles": [
-    "MyRepository/Articles.md",
-    "MyRepository/Attempts at automating journal subject classification.md",
-    "MyRepository/Advanced Techniques for Research with ChatGPT.md",
-    "MyRepository/10 Clustering Algorithms.md",
-    "Extras/Clustering Algorithms.md",
+    "MyRepository/Artificial Intelligence.md",
+    "MyRepository/Unsupervised Text Classification with Topic Models and Good Old Human Reasoning.md",
+    "MyRepository/Normalized Approach to Find Optimal Number of Topics in Latent Dirichlet Allocation (LDA).md",
+    "MyRepository/Machine learning and deep learning.md",
+    "MyRepository/Large Language Models Enable Few-Shot Clustering.md",
+    "MyRepository/How to Use LLMs to Build Better Clustering Models.md",
+    "MyRepository/Google Bard versus ChatGPT.md",
+    "MyRepository/Discovering Topic Representative Terms for Short Text Clustering.md",
     "MyRepository/CLUSTERLLM -  Large Language Models as a Guide for Text Clustering.md",
     "MyRepository/Clustering.md",
     "MyRepository/Classification.md",
     "MyRepository/Bag of Tricks for Efficient Text Classification.md",
-    "MyRepository/Artificial Intelligence.md",
-    "MyRepository/A very gentle introduction to large language models without the hype.md",
+    "MyRepository/Attempts at automating journal subject classification.md",
     "MyRepository/A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
-    "MyRepository/A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
     "MyRepository/A heuristic approach to determine an appropriate number of topics in topic modeling.md",
+    "MyRepository/A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
+    "MyRepository/Advanced Techniques for Research with ChatGPT.md",
+    "MyRepository/Llama.md",
+    "MyRepository/Articles.md",
+    "MyRepository/10 Clustering Algorithms.md",
+    "Extras/Clustering Algorithms.md",
+    "MyRepository/A very gentle introduction to large language models without the hype.md",
     "Extras",
-    "MyRepository/Large Language Models Enable Few-Shot Clustering.md",
     "MyRepository/Supervised versus unsupervised learning.md",
-    "MyRepository/Discovering Topic Representative Terms for Short Text Clustering.md",
     "Extras/Excel.md",
-    "MyRepository/Google Bard versus ChatGPT.md",
-    "MyRepository/How to Use LLMs to Build Better Clustering Models.md",
     "MyRepository/Impact of Preprocessing on Text Classification.md",
     "MyRepository/Large Language Models.md",
-    "MyRepository/Latent Dirichlet Allocation.md",
-    "MyRepository/Topic Modelling.md",
-    "MyRepository/Llama.md",
-    "MyRepository/Machine learning and deep learning.md",
     "MyRepository/Pasted image 20230907212004.png",
     "MyRepository/Pasted image 20230912174355.png",
     "MyRepository/Pasted image 20230907212014.png",
