@@ -1,5 +1,6 @@
 [[Classification]]
 [[Artificial Intelligence]]
+[[Artificial intelligence in business- State of the art and future research agenda]]
 [[Natural Language Processing]]
 [[Machine learning and deep learning]]
 [[Supervised versus unsupervised learning]]
