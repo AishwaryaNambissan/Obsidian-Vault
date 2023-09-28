@@ -32,5 +32,6 @@
 [[Advanced Techniques for Research with ChatGPT]]
 [[Attempts at automating journal subject classification]]
 [[Unsupervised Text Classification with Topic Models and Good Old Human Reasoning]]
+[[Quick and Dirty Data Analysis with Pandas]]
 
 
