@@ -358,6 +358,18 @@
             }
           },
           {
+            "id": "f8dfce849df22439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyRepository/Deep Feature-Based Text Clustering and its Explanation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f38f1369f99bb014",
             "type": "leaf",
             "state": {
@@ -442,7 +454,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -508,7 +520,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyRepository/Articles.md",
+                "file": "MyRepository/Deep Feature-Based Text Clustering and its Explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -525,7 +537,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyRepository/Articles.md",
+                "file": "MyRepository/Deep Feature-Based Text Clustering and its Explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -548,7 +560,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyRepository/Articles.md"
+                "file": "MyRepository/Deep Feature-Based Text Clustering and its Explanation.md"
               }
             }
           },
@@ -587,10 +599,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59db9d2f698a244e",
+  "active": "f8dfce849df22439",
   "lastOpenFiles": [
-    "MyRepository/Quick and Dirty Data Analysis with Pandas.md",
     "MyRepository/Articles.md",
+    "MyRepository/Deep Feature-Based Text Clustering and its Explanation.md",
+    "MyRepository/Quick and Dirty Data Analysis with Pandas.md",
     "MyRepository/Understanding the concept of Hierarchical clustering Technique.md",
     "MyRepository/Clustering.md",
     "MyRepository/Artificial intelligence in business- State of the art and future research agenda.md",
@@ -614,7 +627,6 @@
     "MyRepository/A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
     "MyRepository/Llama.md",
     "Extras/Clustering Algorithms.md",
-    "MyRepository/A very gentle introduction to large language models without the hype.md",
     "Extras",
     "MyRepository/Pasted image 20230907212004.png",
     "MyRepository/Pasted image 20230912174355.png",
