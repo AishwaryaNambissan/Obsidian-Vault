@@ -4,469 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f45ff30935636c",
+        "id": "5b5539ad752659a7",
         "type": "tabs",
         "children": [
           {
-            "id": "4a0c2c5057c1b73e",
+            "id": "008aad6cb982fdde",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "057c133ac933154d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a07e42c62ea6341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Supervised versus unsupervised learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31863e70b2a528f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Llama.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caea6b755a39d9cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73eed4d92e1d4a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/K-means clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebea5ab1c6635813",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a9df4e6430866f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Unnatural Instructions- Tuning Language Models with (Almost) No Human Labor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fbd190f5280a03c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Stanza.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3379b9de0127a898",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/A Novel Text Mining Approach Based on TF-IDF and Support Vector Machine for News Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9843f59e0d8f15a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Stemming and Lemmatization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02da492c0c0b164f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Stemming and Lemmatization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23617d6e7a677390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Stemming and Lemmatization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cbfc42f0dab3e58",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MyRepository/Pasted image 20230907212004.png"
-              }
-            }
-          },
-          {
-            "id": "ce3c4573991e6c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Impact of Preprocessing on Text Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26e9be015c0ab6fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Text Summarization Techniques - A Brief Survey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7550704b14ccbc16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb85001b76777507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/A very gentle introduction to large language models without the hype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "816455692371c8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/A very gentle introduction to large language models without the hype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3926d262d6befea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Impact of Preprocessing on Text Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e91b8f9d26c4461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Discovering Topic Representative Terms for Short Text Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0feced3c8c5a7ff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Latent Dirichlet Allocation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd783d4d74235a6c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e1edda75d6c3374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c534ad16672a8ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Articles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e863f6ca32d197e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Research paper classification systems based on TF‑IDF and LDA schemes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c9cc5dce927758d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "206e42050ce258ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/10 Clustering Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffe3c5b7e44486a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d257c1e809ca90b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Clustering Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59db9d2f698a244e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Articles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8dfce849df22439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extras/Clustering Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fb73106f0a95394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f38f1369f99bb014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7208b20bba848b4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Google Bard versus ChatGPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d12e7df24eedc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9536f24e97a1ca40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bfd581a2d34f476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3bcf3839ff0c09c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Text Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d9b8570914d5206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyRepository/Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 32
+        ]
       }
     ],
     "direction": "vertical"
@@ -532,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -549,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -571,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -613,8 +158,12 @@
   },
   "active": "7a7facb3a44ace74",
   "lastOpenFiles": [
-    "MyRepository/Large Language Models.md",
+    "aigraph_obsidian_aishwarya_nambissan/README.md",
+    "aigraph_obsidian_aishwarya_nambissan/LICENSE",
+    "aigraph_obsidian_aishwarya_nambissan",
+    "Obsidian_RGF",
     "README.md",
+    "MyRepository/Large Language Models.md",
     "MyRepository/Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models.md",
     "MyRepository/Understanding the concept of Hierarchical clustering Technique.md",
     "MyRepository/Articles.md",
@@ -638,7 +187,6 @@
     "MyRepository/CLUSTERLLM -  Large Language Models as a Guide for Text Clustering.md",
     "MyRepository/Classification.md",
     "MyRepository/Bag of Tricks for Efficient Text Classification.md",
-    "MyRepository/Attempts at automating journal subject classification.md",
     "Extras",
     "MyRepository/Pasted image 20230907212004.png",
     "MyRepository/Pasted image 20230912174355.png",
