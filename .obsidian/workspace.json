@@ -375,7 +375,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyRepository/Large Language Models.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -532,7 +532,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyRepository/Large Language Models.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -549,7 +549,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MyRepository/Large Language Models.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -572,7 +572,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MyRepository/Large Language Models.md"
+                "file": "README.md"
               }
             }
           },
@@ -611,8 +611,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fb73106f0a95394",
+  "active": "7a7facb3a44ace74",
   "lastOpenFiles": [
+    "MyRepository/Large Language Models.md",
+    "README.md",
     "MyRepository/Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models.md",
     "MyRepository/Understanding the concept of Hierarchical clustering Technique.md",
     "MyRepository/Articles.md",
@@ -637,8 +639,6 @@
     "MyRepository/Classification.md",
     "MyRepository/Bag of Tricks for Efficient Text Classification.md",
     "MyRepository/Attempts at automating journal subject classification.md",
-    "MyRepository/A Topic Modeling Comparison Between LDA, NMF, Top2Vec, and BERTopic to Demystify Twitter Posts.md",
-    "MyRepository/A heuristic approach to determine an appropriate number of topics in topic modeling.md",
     "Extras",
     "MyRepository/Pasted image 20230907212004.png",
     "MyRepository/Pasted image 20230912174355.png",
