@@ -34,5 +34,6 @@
 [[Unsupervised Text Classification with Topic Models and Good Old Human Reasoning]]
 [[Quick and Dirty Data Analysis with Pandas]]
 [[Deep Feature-Based Text Clustering and its Explanation]]
+[[Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models]]
 
 
